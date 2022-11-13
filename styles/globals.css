@@ -15,10 +15,12 @@ body {
 
 ::-moz-selection {
   background: #afc170;
+  color:#242529;
 }
 
 ::selection {
   background: #afc170;
+  color:#242529;
 }
 
 main {
