@@ -46,7 +46,7 @@ const Download = () => {
     >
       <div className={styles.heading}>
         <Image src="/sparkle.svg" width={24} height={24} alt="" />
-        <h1 className={styles.h1}>Get the visercode</h1>
+        <h1 className={styles.h1}>Get the wisercode</h1>
       </div>
       <p className={styles.p}>
         First of all you need to create an wisercode account to start using.

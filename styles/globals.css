@@ -13,6 +13,14 @@ body {
   overflow-x: hidden !important;
 }
 
+::-moz-selection {
+  background: #afc170;
+}
+
+::selection {
+  background: #afc170;
+}
+
 main {
   display: flex;
   flex-direction: column;
